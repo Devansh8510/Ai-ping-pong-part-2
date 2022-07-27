@@ -1,0 +1,11 @@
+body{
+background-image:url("https://i.pinimg.com/564x/cf/10/1a/cf101adcbfaad60c3dd3fda82384ad64--rackets.jpg") ;
+}
+#my{
+   bottom: 0;
+   position:fixed;
+   color:red;
+   width:100%;
+   text-align: center; 
+   
+}
